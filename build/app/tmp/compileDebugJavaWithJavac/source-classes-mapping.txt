@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/lp_finance/lp_finance/BuildConfig.java
+ com.lp_finance.lp_finance.BuildConfig

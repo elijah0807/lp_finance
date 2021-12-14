@@ -1,0 +1,4 @@
+#Fri Oct 15 05:48:24 WAT 2021
+base.0=C\:\\Users\\MR ELIJAH\\Documents\\GitHub\\lp_finance\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
